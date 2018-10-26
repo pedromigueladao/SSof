@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 from pwn import *
 
 SERVER = "some_server"
